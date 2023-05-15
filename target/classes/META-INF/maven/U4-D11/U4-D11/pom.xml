@@ -22,5 +22,10 @@
     <artifactId>postgresql</artifactId>
     <version>42.6.0</version>
 </dependency>
-</dependencies>
+  	<dependency>
+  		<groupId>U4-D10-Progetto</groupId>
+  		<artifactId>U4-D10-Progetto</artifactId>
+  		<version>0.0.1-SNAPSHOT</version>
+  	</dependency>
+  </dependencies>
 </project>
